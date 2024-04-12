@@ -1,0 +1,74 @@
+
+#btn_save_holder{
+  float:right;
+}
+
+.pbody{
+background-color: rgba(232, 232, 232, 0.56);
+border-radius: 5px;
+box-shadow: 2px 2px 2px;
+}
+
+#week_holder{
+  margin-left: 47%;
+  margin-top: -50px;
+}
+
+#navigation_holder{
+
+}
+
+.pager li>a{
+  color:white;
+  border-color:orange;
+  font-weight: bold;
+}
+
+.pager li>a,.pager li>span{
+  background-color:orange;
+}
+
+.pager li>a:hover{
+  background-color:rgba(27, 27, 187, 0.83);
+  border-color: rgba(27, 27, 187, 0.83);
+  font-weight: bold;
+}
+
+
+
+hr{
+
+  padding: .50px;
+  background-color: rgba(189, 183, 183, 0.58);
+  width: 100%;
+}
+
+
+
+.adjusted_text_area{
+  resize: none;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#buttons_holder{
+  float:right;
+}
+
+
+.phead{
+  padding: 20px;
+  margin-top: 20px;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  background-color: rgba(27, 27, 187, 0.83);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  color:white;
+}
+
+.ptitle{
+  font-size: 16px !important;
+  font-weight: bold !important;
+}

@@ -1,0 +1,35 @@
+.ptitle {
+  font-size: 1.2em;
+  border-radius: 5px;
+  background-color: #0369aa;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: white; }
+
+.pbody {
+  font-size: 1.2em;
+  background-color: #eef5f9;
+  border-radius: 5px;
+  margin-top: -14px;
+  padding-top: 10px;
+  text-align: center;
+  font-family: serif;
+  box-shadow: 1px 2px 2px; }
+
+.student_assigned_holder {
+  margin-top: 10px; }
+
+.student_assigned {
+  color: #ffc600;
+  font-size: 1.1em; }
+
+.student_assigned_adjusted {
+  margin-left: 20%; }
+
+.assigned_detail {
+  color: azure;
+  font-size: 1.1em;
+  font: italic; }
+
+/*# sourceMappingURL=instructions_page.css.map */

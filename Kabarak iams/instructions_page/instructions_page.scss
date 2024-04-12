@@ -1,0 +1,41 @@
+$top-navigation_color : rgba(27, 27, 187, 0.83);
+
+.ptitle{
+  font-size: 1.2em;
+  border-radius: 5px;
+  background-color: $top-navigation_color;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+  color:white;
+}
+
+.pbody{
+  font-size: 1.2em;
+  background-color: #CAC7C7;
+  border-radius: 5px;
+  margin-top: -14px;
+  padding-top: 10px;
+  text-align: center;
+  font-family: serif;
+  box-shadow: 1px 2px 2px;
+}
+
+.student_assigned_holder{
+	margin-top: 10px;
+}
+
+.student_assigned{
+	color: rgb(255, 198, 0);
+	font-size: 1.1em;
+}
+
+.student_assigned_adjusted{
+	margin-left: 20%;
+}
+
+.assigned_detail{
+	color: azure;
+	font-size: 1.1em;
+	font: italic;
+}

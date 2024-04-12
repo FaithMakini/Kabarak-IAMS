@@ -1,0 +1,46 @@
+
+.ptitle{
+  font-size: 16px !important;
+  font-weight: bold !important;
+}
+
+#btn_submit_holder{
+  float:right;
+}
+
+#company_address{
+  resize: none;
+  height:100px;
+}
+
+.panel-adjusted{
+	width: 70%;
+	margin: auto;
+}
+
+.pbody_student_info{
+  background-color: rgba(197, 197, 202, 0.6);
+  border-radius: 5px;
+}
+
+.phead{
+  padding: 20px;
+  margin-top: 20px;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  background-color: rgba(27, 27, 187, 0.83);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  color:white;
+}
+
+.form-control-adjusted{
+  padding:8px 12px;
+  height: 36px !important;
+}
+
+.pbody{
+background-color: rgba(232, 232, 232, 0.56);
+border-radius: 5px;
+}
