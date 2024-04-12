@@ -118,8 +118,8 @@ if(isset($_POST["btn_search"])){
 <ul id="menu_list">
   <a class="menu_items_link" href="../view_registered_students/view_registered_students.php"><li class="menu_items_list">Registered Students</li></a>
   <a class="menu_items_link" href="students_assumptions.php"><li class="menu_items_list" style="background-color:#3CB4FB;padding-left:16px">Student Assumptions</li></a>
-  <a class="menu_items_link" href="../assign_supervisors/assign_supervisors.php"><li class="menu_items_list">Assign Supervisors</li></a>
-  <a class="menu_items_link" href="../visiting_score/visiting_supervisors_score.php"><li class="menu_items_list">Visiting Superviors Score</li></a>
+  <a class="menu_items_link" href="../assign_supervisors/assign_supervisors.php"><li class="menu_items_list">Assign Supervisor</li></a>
+  <a class="menu_items_link" href="../visiting_score/visiting_supervisors_score.php"><li class="menu_items_list">Visiting Supervior Score</li></a>
   <a class="menu_items_link" href="../company_score/company_supervisor_score.php"><li class="menu_items_list">Company Supervisor Score</li></a>
   <a class="menu_items_link" href="../change_password/change_password.php"><li class="menu_items_list">Change Password</li></a>
   <a class="menu_items_link" href="../../index.php"><li class="menu_items_list">Logout</li></a>
